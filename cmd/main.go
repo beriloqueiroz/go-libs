@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/beriloqueiroz/my-go-libs/validation"
+	validation "github.com/beriloqueiroz/go-libs-validation"
 )
 
 func main() {
