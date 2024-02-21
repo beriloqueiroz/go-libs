@@ -1,3 +1,3 @@
-module github.com/beriloqueiroz/my-go-libs/cmd
+module github.com/beriloqueiroz/go-libs/cmd
 
 go 1.21.4
